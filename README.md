@@ -1,4 +1,4 @@
-# Member 5: Gender & Demographic Classifier Module
+# Gender & Demographic Classifier Module
 
 This module is responsible for analyzing an influencer’s profile (Image and Bio) and aggregating their audience data into a standardized **Demographic Feature Vector**.  
 This vector is a crucial input for the final Matchmaker module.
