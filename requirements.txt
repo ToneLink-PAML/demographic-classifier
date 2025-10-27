@@ -1,0 +1,21 @@
+# Core data handling
+pandas
+numpy
+
+# Machine Learning & Metrics
+scikit-learn
+
+# NLP/Transformers for Bio Text Classification
+torch
+transformers
+
+# Computer Vision for Image-based Classification
+# DeepFace wraps powerful models and simplifies the CV part.
+deepface
+
+# Dependencies for DeepFace (often needed explicitly)
+opencv-python
+ Pillow
+tf-keras
+# Utility for JSON storage
+# The 'json' module is built-in, but this ensures no external library is needed.

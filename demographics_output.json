@@ -1,0 +1,21 @@
+{
+    "influencer_id": "A456_Wellness",
+    "influencer_gender": "MAN",
+    "influencer_age_group": "26-35",
+    "demographics_vector": {
+        "audience_top_region": "US (40.2%)",
+        "audience_18_35_perc": 65.0,
+        "audience_female_perc": 19.5,
+        "raw_age_dist": {
+            "<18": 5.0,
+            "18-25": 20.0,
+            "26-35": 45.0,
+            "36-50": 25.0,
+            "50+": 5.0
+        },
+        "raw_gender_dist": {
+            "Female": 19.5,
+            "Male": 80.5
+        }
+    }
+}
